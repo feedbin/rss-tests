@@ -1,0 +1,6 @@
+title: RSS Tests
+email: support@feedbin.com
+description: This is the description
+url: http://rss-tests.dev
+markdown: kramdown
+exclude: [public]
