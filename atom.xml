@@ -14,7 +14,7 @@ layout: null
         <email>{{ site.email }}</email>
     </author>
 
-    {% for post in site.posts limit:1 %}
+    {% for post in site.posts %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
         <author>

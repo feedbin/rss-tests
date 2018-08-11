@@ -1,0 +1,42 @@
+---
+title: Embed Examples
+---
+
+SoundCloud
+----------
+
+<iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F293&show_artwork=true"></iframe>
+
+Kickstarter
+-----------
+
+<iframe src="https://www.kickstarter.com/projects/1115015686/help-support-the-kiggins-theatre-to-go-digital/widget/video.html" height="270.0" width="480" frameborder="0" scrolling="no"></iframe>
+
+Spotify Track
+-------------
+
+<iframe src="https://open.spotify.com/embed/track/2qToAcex0ruZfbEbAy9OhW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Spotify Artist
+--------------
+
+<iframe src="https://open.spotify.com/embed/artist/7ae4vgLLhir2MCjyhgbGOQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+iTunes
+------
+
+<iframe src="https://widgets.itunes.apple.com/widget.html?c=us&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=music&e=album&w=250&h=300&ids=279589427&wt=discovery&partnerId=&affiliate_id=&at=&ct="></iframe>
+
+Ted
+-------
+<iframe src="https://embed.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight" width="560" height="316" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+YouTube
+-------
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VfKcLAwFJTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Vimeo
+-----
+
+<iframe src="https://player.vimeo.com/video/283748810" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
